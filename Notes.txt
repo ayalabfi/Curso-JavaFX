@@ -1,0 +1,18 @@
+- JavaFX é o sucessor do Swing e Java AWT para interfaces gráficas com Java.
+
+- O Java FX pode ser usado para desktop, web e mobile.
+
+- Uma tela JavaFX pode ser montada via código Java, ou via código FXML
+
+- Com o lançamento do Java 11, JavaFX não é mais parte do JDK.
+1 - O JavaFX precisa ser baixado e configurado separadamente;
+2 - É mantido pela Gluon.
+
+- JavaFX é projetado sobre o padrão MVC:
+1 - Model - Consiste nos dados de domínio e toda lógica de transformação desses dados;
+2 - Views - São as telas de interação com o usuário (UI);
+3 - Controllers - São as classes responsáveis por tratar as interações do usuário com as views (manipulação de eventos de interação com as telas).
+
+- Hierarquia do JavaFX: https://openjfx.io/javadoc/17/overview-tree.html
+
+- Parent: É uma superclasse do Anchor Pane, sendo a classe mais genérica do grupo de objetos que compõe os controles visuais;
