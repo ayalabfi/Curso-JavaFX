@@ -15,4 +15,9 @@
 
 - Hierarquia do JavaFX: https://openjfx.io/javadoc/17/overview-tree.html
 
-- Parent: É uma superclasse do Anchor Pane, sendo a classe mais genérica do grupo de objetos que compõe os controles visuais;
+- Parent: É uma superclasse do Anchor Pane, sendo a classe mais genérica do grupo de objetos que compõe os controles visuais.
+
+- Listener: Função para executar quando o controle sofrer alguma alteração ou interação com o usuário.
+
+- Expressões regulares: https://www.w3schools.com/java/java_regex.asp
+
