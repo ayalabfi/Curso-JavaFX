@@ -21,3 +21,10 @@
 
 - Expressões regulares: https://www.w3schools.com/java/java_regex.asp
 
+Tipos de containers:
+1 - AnchorPane: Cria uma tela ancorada, sem demais funções;
+2 - GridPane: Cria uma tela em formato de tabela, com linhas e colunas para devidas organizações;
+3 - SplitPane: Cria uma tela dividida, podendo colocar controles de forma dividida na tela;
+4 - VBox & HBox: Faz as organização dos controles na vertical ou horizontal, sendo alternados por V ou H que antecedem o Box;
+5 - BorderPane: Cria uma tela dividida em cima, baixo, esquerda, direita e meio;
+6 - ScrollPane: Cria uma tela com possibilidade de barra de rolagem, para caso os controles adicionados na tela sejam maiores que a disponibilização da tela.
